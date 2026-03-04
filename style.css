@@ -133,3 +133,66 @@ footer p {
   padding-left: 10px;
   border-bottom: 2px dotted #771111;
 }
+.hm {
+  margin-top: 10px;
+  text-align: center;
+}
+.hm h1 {
+  font-size: 30px;
+  margin: 30px 0 30px;
+  border-bottom: 2px dotted #771111;
+}
+.hm p {
+  font-size: 18px;
+  color: #000;
+  margin-bottom: 30px;
+  text-align: left;
+  padding-left: 10px;
+  border-bottom: 2px dotted #771111;
+}
+.em {
+  margin-top: 10px;
+  text-align: center;
+}
+.em input {
+  border: 2px solid #711;
+  border-radius: 5px;
+}
+.em textarea {
+  border: 2px solid #711;
+  border-radius: 5px;
+}
+.em input:focus,
+.em textarea:focus {
+  outline: none;
+  border-color: #711;
+  box-shadow: 0 0 5px #711;
+}
+.en {
+  margin-top: 10px;
+  text-align: center;
+  width: 70%;
+  height: 30px;
+}
+.date-input {
+  height: 30px;
+  width: 20%;
+}
+.ed {
+  margin-top: 10px;
+  text-align: left;
+  width: 90%;
+  height: 100px;
+  padding: 10px;
+}
+.em button {
+  padding: 10px 20px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  width: 30%;
+}
+.em button:hover {
+  background-color: #711;
+}
