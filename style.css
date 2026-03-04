@@ -196,3 +196,8 @@ footer p {
 .em button:hover {
   background-color: #711;
 }
+.hm ol {
+  text-align: left;
+  margin-left: 20px;
+  padding-left: 10px;
+}
